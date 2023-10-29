@@ -28,7 +28,8 @@ list_of_files = [
     "requirements.txt",
     "research/trial.ipynb",
     "templates/index.html",
-    "README.md"
+    "README.md",
+    "test.py"
 ]
 
 # loggic
